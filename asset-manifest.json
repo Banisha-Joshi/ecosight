@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecosight/static/css/main.e6c13ad2.css",
+    "main.js": "/ecosight/static/js/main.47b3e70b.js",
+    "static/js/453.3732d76e.chunk.js": "/ecosight/static/js/453.3732d76e.chunk.js",
+    "index.html": "/ecosight/index.html",
+    "main.e6c13ad2.css.map": "/ecosight/static/css/main.e6c13ad2.css.map",
+    "main.47b3e70b.js.map": "/ecosight/static/js/main.47b3e70b.js.map",
+    "453.3732d76e.chunk.js.map": "/ecosight/static/js/453.3732d76e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.47b3e70b.js"
+  ]
+}
